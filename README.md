@@ -29,3 +29,12 @@ This project is a Smart Temperature Monitoring System developed as part of an Em
 - Server Room Monitoring
 - Greenhouse Temperature Control
 - Environmental Monitoring
+- # Smart Temperature Monitoring System
+
+## Circuit Diagram
+
+![Circuit Diagram](circuit-diagram.png)
+
+## Serial Monitor Output
+
+![Output](output-serial-monitor.png)
