@@ -32,7 +32,7 @@ This project is a Smart Temperature Monitoring System developed as part of an Em
 - # Smart Temperature Monitoring System
 
 ## Circuit Diagram
-
+![Circuit Diagram](circuit_diagram.png)
 ![Circuit Diagram](circuit-diagram.png)
 
 ## Serial Monitor Output
